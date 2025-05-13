@@ -19,5 +19,6 @@ public class IniciodeSecion{
        } else {
         System.out.println("Muuuuuuy mal mano, no te la sabes");
        }
+       System.out.println("Derechos reservados")
     }
 }
